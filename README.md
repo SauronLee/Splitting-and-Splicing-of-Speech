@@ -1,8 +1,8 @@
-# Splitting and Splicing of Speech  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Tiog2nW4cLNg5bYG15C9imzzaYN_8m2n?usp=sharing)
+# SSS: Splitting and Splicing of Speech  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Tiog2nW4cLNg5bYG15C9imzzaYN_8m2n?usp=sharing)
 
 This repository contains code and models for the poster: [wav2vecモデルによる方言音声資料のテキスト化 (LRW2022)](https://clrd.ninjal.ac.jp/lrw2022-programme-c.html). 
 
-- We propose Splitting and Splicing of Speech Method for **Speech Recognition**, It can improve the recognition of multi-speaker conversations. 
+- We propose **SSS: Splitting and Splicing of Speech** Method for **Speech Recognition**, It can improve the recognition of multi-speaker conversations. 
 
 <p align="center">
 <img src=main_illustration.png width=800/>
