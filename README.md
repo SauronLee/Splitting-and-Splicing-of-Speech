@@ -2,7 +2,7 @@
 
 This repository contains code and models for the poster: [wav2vecモデルによる方言音声資料のテキスト化 (LRW2022)](https://clrd.ninjal.ac.jp/lrw2022-programme-c.html). 
 
-- We propose **Splitting and Splicing of Speech (Triple-S)** Method for **Speech Recognition**, It can improve the recognition of multi-speaker conversations. 
+- We propose **Splitting and Splicing of Speech (Triple-S)** Method for **Speech Recognition**, Triple-S can improve the recognition of multi-speaker conversations. 
 
 <p align="center">
 <img src=main_illustration.png width=800/>
