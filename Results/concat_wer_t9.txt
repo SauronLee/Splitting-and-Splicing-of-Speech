@@ -1,0 +1,124 @@
+python wer.py ../concat_t9.txt ../target_t9.txt
+REF: 鉄 と の 乱行 へ で って 回 に む ララ っ た 力 くの 名 行 へ  で っ 回 に む クラっ た 努力 く カーデラート の マーガンア の   末 プエ・グライウア る あ  乾    駅  って  っ だあ 駅   で  って 
+HYP:                                       そい で                    外      の       向こう で から       ね うん ありゃあ その きつね で あれ たぬき です よ  
+EVA: D D D D  D D D  D D D D  D D D D  D D S    D D D D D   D D  D S        D     S   S S        S S  S    S  S   S S  S   S  S  
+WER: 95.35%
+REF: 国 薬 の ご なめ 天網 撃 駅 な とって に まっ た 持 と ぼて 局    薬 分 ななめ 天皇   を き とっ て に なっ た と て  ぼ  え て  ブール 
+HYP:                                    こう もろこし 畑 ん 中   もろこし を                 食う もん だ うん うん  
+EVA: D D D D D  D  D D D D   D D  D D D S  S    S S S   S      D D  D D D  D D S  S  S S  S   
+WER: 97.06%
+REF: ー ー と マップ や トッパー ト む 弾 洗 イタ って っ けった あー ン 古 ん だ っ くッ ル  の が  一 って マバーウ と パ イ ぴ やち ッ パー む 今 う 玉 イ ドタ って 見 っ っ あ ローン の 門 っ ポップルル の 行一 って どの カポ カ って 行っ てっ た あー ン  古面 だっ ホ っ  ぺ ル の   行 が  一 って 
+HYP:                                                      あれ は その 種 って                                   やつ を 2 つ あ                                          あ そう うん 必ず 2  つ 入れ て さ ありゃ だ もん だ で  
+EVA: D D D D   D D    D D D D D  D  D D   D  D D D D D D  S  S S  S    D    D D D D D  D D  D D D D D D  S  S S S   D   D D D D     D D  D  D  D  D D  D  D  S S  S  S  S  S S  S S S   S S  S S  
+WER: 97.26%
+REF: あがら でよ むね 花 は  ぶっ たっ て  ね 
+HYP:             必ず 2  つ  いる ね 
+EVA: D   D  D  D S  S  S  S    
+WER: 88.89%
+REF: ぼか って 義 い だ を 怒っ てる や 遠 を  霧 
+HYP:         昔 風 が 残っ てる     やつ さ 
+EVA: D  D  D S S S S     D D S  S 
+WER: 91.67%
+REF: の  の 花  あ  赤 っ  ど  野花 だっ と がっ くたっ て 見 っ た 夜夜 な  程 で 頭  が  不  に  だ って ア が 魚 ナ で パ 今   この 何 こ 
+HYP: あれ は その 助け た って 家家 が  必要 で な  うん  て          いう の で 相当 まぁ 古い わけ だ              な つまり ここ ら の 
+EVA: S  S S  S  S S  S  S  S  S S  S     D D D D  S  S   S  S  S  S    D  D D D D D S S   S  S S 
+WER: 91.67%
+REF: 誰 がっ て た 無 年  から ザイ た トル の  き た  ロ  局  た  グメップ で  ある ん  お  の   雨 の  くいもの の  がかっ たかあ か  
+HYP: 誰        だ って 聞い たら ね そ  すっ と それ から あの はち まん   さん だ  って いっ たって ね そい で    あの ここ  に   あの 
+EVA:   D  D D S S  S  S  S S  S  S S  S  S  S  S    S  S  S  S  S   S S  S    S  S   S   S  
+WER: 96.55%
+REF: な 大 の とが 立 符 飲ん で どん ろ え 卵 教 技 なり  頼 の くい 何 局  行っ てっ て に が  
+HYP:                              お おいし さ ん と  か って いう ひと で ね えー 
+EVA: D D D D  D D D  D D  D D D D S S   S S S  S S  S  S  S S S  
+WER: 100.00%
+REF: た 朝 の だ 八 後 三 肉 ククー ン ん だ ド 女 はっと ディマード 家 お の 花 は ひ ちっと クラバァイ のっ   た 
+HYP:                                                               なになに 会 
+EVA: D D D D D D D D D   D D D D D D   D     D D D D D D D   D     S    S 
+WER: 100.00%
+REF: ン 道 を てっ たって き は ホットロ な だっ た 局 道 て はっ たって グ 撃 ホロラ だっ た 局 っ だ 道 後 ど プア だき  は ホド な だっ た けが これ わ の  に は  彼 は ア  まい の   か    
+HYP:                                                                       わたし は           ね  うち ん なか に 必ず 水 が あっ た  そのー やっぱり 
+EVA: D D D D  D   D D D    D D  D D D D D  D   D D D   D  D D D D D D D D  S     D  D D  D S  S  S S    S  S S S  S  S   S    
+WER: 95.65%
+REF: を 思わ っ たっ と 赤 っ 枝 やっ た トラ の い カ ラー カ ああ ・ アル の ラーピ 移犬 で たっ 今 で  マ  の みの に 四 派   の  ボット と に    真庭  ブーズ もっ た 
+HYP:                                                            昔 その うち の 日  に   当たっ てる うち  は ほとんど なかっ た   です ね 
+EVA: D D  D D  D D D D D  D D  D D D D  D D  D D  D D   D  D D  S S  S    S    D S   S  S   S S    S   S   S  S 
+WER: 95.00%
+REF: 道一 ぴ の 上 の の あだ っこ 寄っ て ただ も あん たり 旅   を  ト む  っ グガボイネ 馬 の ボレーク の  ボラ たな ダム よ の 看 カ  去 な  玉  
+HYP:                         どう も 30 年  ぐれえ 経つ な 40 年 いや    さ ん じゅう  56 年  まぁ 40 年 だ な どう も あー うん 
+EVA: D  D D D D D D  D  D  D S    S  S  S   S  S S  S S     S S S    S  S  S  S  S S S S  S S  S  
+WER: 97.06%
+REF: 色 ナ 島 を ぶ 連 ド  っ ぴ   な げら な  のの の ベェッドレン くらい また 手 に は  岩  が るる い 四 を  義 って 年 プイク と  種  は 頭 へ どっ  ぽ やっ   て 
+HYP:             50 銭 ぐれえ み た  もん だ  で いや     まあ  うん 昔 な うん うん 昔 うん 昔 の 50 銭 って       いう もの は     500 円 5000 円 
+EVA: D D D D D D S  S S   S S  S  S  S S      S   S  S S S  S  S S  S S S  S    D D   S  S    D D S   S S    S 
+WER: 94.87%
+REF: ね 不二 っ たえ 不  ル  二  っ  たとっ た   ラ   児 って  か に なっ て ある め 滅 局 局 鶏 から 真 え の 材 へ 一 た  去  下 い 顔 を 開 ぶた って から 笑っ て  いっ て も カー ー だ 
+HYP:        その あと そう です ねぇ 僕   じゅう 155 年 くらい 前 に                                  なり ます か ね 山 を               拾い まし て        ね 
+EVA: D D  D S  S  S  S  S  S   S   S   S S   S   D  D D  D D D D D D  D D D D D D S  S  S S S   D D  D  D  D  S  S    D D  D S 
+WER: 93.75%
+REF: マー たっ て た トラン の っ マ あたっ て た トラン の よ っ ぱ 運ん だ が  肥 て ヴトアョ 目 と  見よっ ぱ   運ん だ が  ほ   て アドョ は キ と この イ  犬 ラン へ 
+HYP:                                            で 丈夫 に し たら   ね あぁ もう  大した 金  に なる っつっ て         ね それ から で 大事 に 
+EVA: D  D  D D D   D D D D   D D D   D D D D D  S S  S S S    S S  S   S   S  S S  S     D   D D S S  S  S S  S 
+WER: 97.50%
+REF: 捕 あの ボ ぐ だ 届 ろ い び プラ の ある か と を 六 婚 な 昔 カキ と  と  方 を 多う ん    四   く 魔  タ  お よ  遠  切 た 
+HYP:                                          ただ まあ 建て 方   が  やっぱり レンガ が 固定 でき て そう そう 一 面 
+EVA: D D  D D D D D D D D  D D  D D D D D D D S  S  S    D S  S    S   S S  S  S S  S  S S 
+WER: 97.14%
+REF: 下 ト  ま  勝っ てん だけ がく然 厭  まった 映 な 去  軍 で 下がっ て ん だ けまり まく まった 球  映 な 去 で これ 一 歩 だ って って て 悪 と 思っ て て   
+HYP:   そう あの 僕  僕  ら  の   とこ に   今 も ある か と 思っ  て                去年 か な                               つまり 
+EVA: D S  S  S  S  S  S   S  S   S S S  S S S     D D D   D  D   S  S   D D D  D D D D  D  D D D D  D S   
+WER: 94.74%
+REF: の 通 ト 絶 万 乱  転   の 巻 る この あ え  景 で あ ま 万 乱 と   がや マーリトンテアルトーププ の っ 校  や  あっ たった 薄 け  て あた 
+HYP:           こん ぐらい の     池  か なん か で         きれい な  洗面           器 で ねぇ うん あれ で   顔 洗っ て    
+EVA: D D D D D S  S     D D S  S S  S   D D D D S   S  S            S S S  S  S  S   S S    D  
+WER: 90.62%
+REF: ボォイトイップートマードーグノ が 運 カ  頭 ザープ で と 各 ペ た の 一 カー ・ デ リャ ・ 道 プ なっ た  で 予  ビク   を 乗っ だっ たった 
+HYP:                     まぁ な ん   で                           ね その 人生 で その ハコヨク を           
+EVA: D               D D S  S S     D D D D D D D  D D D  D D S S  S    S  S      D  D  D   
+WER: 89.66%
+REF: ネルマ っ た 大 はれ の へー タ たま の まっ る とう ネルプマ っ た 大 くの ッ  へー タ たま の まっ る  とも く   ク  の 手  な よく キ 張 な 出 な  馬  たん また 暴 段   が だ  
+HYP:                                                そう やっ て いっ て っと また その いびき かく で さう ん その 下 で な   うん 雑木 の  下  で いびき を かく 
+EVA: D   D D D D  D D  D D  D D  D D  D    D D D D  S  S  S S  S S  S  S  S   S  S S  S S  S S   D S  S  S  S  S S   S S  
+WER: 97.73%
+REF: ぽ え てら と は こ 一 と っ とっ て 上 プ っ 百 っ あ  行っ て 明  から ぽっ とっ た え  て た こう 一 と   っ とっ て が プ っ た 百 っ たあ 一 って から が 大本 タ な こ 一 たな が ルット が あくた いっき なた で 変 ぺた だっ た  
+HYP:                み を 拾っ て           戻っ た  ん です よ  うん 電気 を つけ て で こう   よーく を いれ て                               な                               そい から また 
+EVA: D D D  D D D D S S S    D D D D D S  S  S S  S  S  S  S S    S    D S   S S    D D D D D D D  D D  D  D D  D   D D D  D D   D D   D   D  D D S  S  S  
+WER: 91.80%
+REF: アヒュ 金 を れ て っ がる て パ レラ ・ 五 鉄 程 園 また 一  ットポグアヒ る 円  乱 を 安 雨  で られ て ロ  川 高 ぴ  手  が 上れ  と で 
+HYP:                                      それ から     に その コ を   ひと つ 撃っ た はず で な たま 撃っ て しまっ た で 
+EVA: D   D D D D D D  D D D  D D D D D D  S  S      S S  S   D S  S S  S S  S S S  S  S S   S   
+WER: 94.44%
+REF: 二 ラワク カラー の とち 突 へ 一 符 ェ 楽  業  まま ケ ポーっ テ  行 て  行 て 勝 き  が 楽   プ って 
+HYP:                          その とき 足  は もう  アブ に やら れ て   そい で 小河内 の ね  
+EVA: D D   D   D D  D D D D D S  S  S  S S   S  S S  S   D S  S S   S S  
+WER: 96.15%
+REF: ぱ よこ って っ ちょっ こよ な が 歩っ たげ ゆっ き あっ たっぱ よこ って っ ちょっ こよ な  が 歩っ た っ  げ  ゆ    っ  き  あっ たこ が の  かかっ あの 
+HYP:                                        なん だ  か わから ん  なぁ と 思っ て そっ から しばらく その うん まぁ 鉄砲 で って か   って 
+EVA: D D  D  D D   D  D D D  D  D  D D  D   S  S  S S   S  S  S S  S S  S  S    S  S  S  S  S S  S   S  
+WER: 100.00%
+REF: 発 枠 から ズラウン 七 ド 一 カ 去 便 と 去 洋 発っ た ドワ 買 百 っ た の  よ  っ  の    名 の  が    って 出  っ  きも   好い 洋白 の   カ   だ と  のっ て  だ だっ た 
+HYP:                                             見 てる だけ じゃ さっぱり 分 から のうこう って っと こう うなだれ た  こう ありゃ いけえ 木 やっ た  はず だ      
+EVA: D D D  D    D D D D D D D D D D  D D  D D D S S  S  S  S    S S  S       S  S  S    S  S  S   S   S S  S  S    D  D 
+WER: 95.24%
+REF: 道 の 山 位 あの マ ムン の 門 砲 が の と ミ る とい え 甘 んっ て か は と 黒 の ア ま て   は  上る だ む ン ラン  ゆ  ル  通 脈  を っ か   で   の よ  
+HYP:                                                       八 尺 ばっか その なん だ     見かけ ない です ね こう 八 尺 ばっか 長かっ た です 
+EVA: D D D D D  D D  D D D D D D D D D  D D D  D D D D D D S S S   S  S    D D S   S  S  S S  S S S   S   S S  
+WER: 97.73%
+REF: ッブド だ の メッイテャラ 験  の プ て  も あ   くっ と 輪 動 よ アラア の  ッ ムル で は の よ ッ   パイテャラ 験 プ   派 て も  くっ 単  輪  いよ アラア の 
+HYP:       で その     この 話 だ って し ながら 前  に 家 に 来 て   さう ん そん で       なんか もっ    て なけれ ば ね やら れる って いう だ  よう  ん 
+EVA: D   D S S      S  S S S  S S   S  S S S S S   S  S S    D D D S   S     S S   S S S  S  S  S  S  S   S 
+WER: 97.22%
+REF: 年一 パ   な 一 題 の  た  ト た  ー おや も  残 く ある の 毛    も  ベック 山 飲ん                 
+HYP:    子連れ で 一 度 ずら そい で 会社 が 鉄砲 持っ て て 一  度 追っかけ それ で   僕 と  三 人 で 一 度 で 一 度 
+EVA: D  S   S   S S  S  S S  S S  S  S S S  S S    S  S   S S  I I I I I I I I 
+WER: 133.33%
+REF: ょ っぽ 一 って  て み ちょ っ ぽっ と    に    本妙 枚 いと びこ メミエトボポンンボ がな や    って の  よ あああ 選れ  っ カラ に  べっ から 良い 
+HYP:        じゃれ て        も  とっても よろこん で  さ 親  の  周り        を  くるくる し  てる 親 も   なんに も し  ない で  み  てる 
+EVA: D D  D S     D D  D S  S    S    S  S S  S  S         S  S    S  S  S S   S   S S  S  S  S  S  
+WER: 96.55%
+REF: 夢 の が 一 た ポーム こな っ けた 店 ある 派 ど 仏 カカペ って この 後 五 な が 一 ポーム 困 な    とっ た も ある 派 カッペ 君 男 って 無 今 の 後 どる あ お  濶 カ   ぺ プ   持っ て どう 今 の 
+HYP:                                                          2 メートル いっ た                                から ば こーん ば こーん やっ て    た よ 
+EVA: D D D D D D   D  D D  D D  D D D D   D  D  D D D D D D   S S    S    D D  D D   D D D  D D D D D  D S  S S   S S   S    D  S S 
+WER: 96.00%
+word_error_total/words_total
+1051 / 1091 = 0.9633363886342805
+
