@@ -1,16 +1,16 @@
 ## ファイル説明
 
-* 予測時の文あたりのWER（T9_concat）：[Link](https://github.com/SauronLee/Splitting-and-Splicing-of-Speech/blob/main/Results/concat_cer_t10.txt)
-* 予測時の文あたりのCER（T10_concat）：[Link](https://github.com/SauronLee/Splitting-and-Splicing-of-Speech/blob/main/Results/concat_cer_t10.txt)
-* 予測時の文あたりのWER（T9_raw）
-* 予測時の文あたりのCER（T10_raw）
-* Targetファイル（T9）
-* Targetファイル（T10）
-* concat音声で認識した文（T9）
-* raw音声で認識した文（T9）
-* concat音声で認識した文（T10）
-* raw音声で認識した文（T10）
-* 評価方法
+* [予測時の文あたりのWER（T9_concat）](https://github.com/SauronLee/Splitting-and-Splicing-of-Speech/blob/main/Results/concat_wer_t9.txt)
+* [予測時の文あたりのCER（T10_concat）](https://github.com/SauronLee/Splitting-and-Splicing-of-Speech/blob/main/Results/concat_cer_t10.txt)
+* [予測時の文あたりのWER（T9_raw）](https://github.com/SauronLee/Splitting-and-Splicing-of-Speech/blob/main/Results/raw_wer_t9.txt)
+* [予測時の文あたりのCER（T10_raw）](https://github.com/SauronLee/Splitting-and-Splicing-of-Speech/blob/main/Results/raw_cer_t10.txt)
+* [Targetファイル（T9）](https://github.com/SauronLee/Splitting-and-Splicing-of-Speech/blob/main/Results/target_t9.txt)
+* [Targetファイル（T10）](https://github.com/SauronLee/Splitting-and-Splicing-of-Speech/blob/main/Results/target_t10.txt)
+* [concat音声で認識した文（T9）](https://github.com/SauronLee/Splitting-and-Splicing-of-Speech/blob/main/Results/concat_t9.txt)
+* [raw音声で認識した文（T9）](https://github.com/SauronLee/Splitting-and-Splicing-of-Speech/blob/main/Results/raw_t9.txt)
+* [concat音声で認識した文（T10）](https://github.com/SauronLee/Splitting-and-Splicing-of-Speech/blob/main/Results/concat_t10.txt)
+* [raw音声で認識した文（T10）](https://github.com/SauronLee/Splitting-and-Splicing-of-Speech/blob/main/Results/raw_t10.txt)
+* [評価方法](https://github.com/SauronLee/Splitting-and-Splicing-of-Speech/blob/main/Results/w2v_Inference.py)
 
 ## 結果
 ### WER & CER
