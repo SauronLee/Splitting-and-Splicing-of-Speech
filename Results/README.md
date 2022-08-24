@@ -11,6 +11,12 @@
 * [concat音声で認識した文（T10）](https://github.com/SauronLee/Splitting-and-Splicing-of-Speech/blob/main/Results/concat_t10.txt)
 * [raw音声で認識した文（T10）](https://github.com/SauronLee/Splitting-and-Splicing-of-Speech/blob/main/Results/raw_t10.txt)
 * [評価方法](https://github.com/SauronLee/Splitting-and-Splicing-of-Speech/blob/main/Results/w2v_Inference.py)
+----
+updata: 2022.8.24
+* [音素CER(T10_concat)](https://github.com/SauronLee/Splitting-and-Splicing-of-Speech/blob/main/Results/phone_concat_t10_cer.txt)
+* [音素CER(T9_concat)](https://github.com/SauronLee/Splitting-and-Splicing-of-Speech/blob/main/Results/phone_concat_t9_cer.txt)
+* [音素CER(T10_raw)](https://github.com/SauronLee/Splitting-and-Splicing-of-Speech/blob/main/Results/phone_raw_t10_cer.txt)
+* [音素CER(T9_raw)](https://github.com/SauronLee/Splitting-and-Splicing-of-Speech/blob/main/Results/phone_raw_t9_cer.txt)
 
 ## 結果
 ### WER & CER
@@ -18,6 +24,7 @@
 |---------|-----------|----------|------------|----------|
 | WER     | 0.963336  | 0.968272 | 0.988349   | 0.988399 |
 | CER     | 0.982670  | 0.873524 | 0.924721   | 0.826784 |
+| CER_phone     | 0.952380  | 0.840811 | 0.892825   | 0.690177 |
 
 ## 予測の例
 ### T9
