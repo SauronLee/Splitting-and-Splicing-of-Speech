@@ -1,0 +1,122 @@
+1 origin:naNkiyokonomeNyukideseNboodekurukyonekowakUkubagarupaadeaaatsumapueeviajooaruayataNekideclyo
+1 target:soidesotonomukoodekaraneuNaryaasonokItsunedearetanukidesUyo
+1 diff  :repnaNk->so,repy->des,repk->t,insukood,inskaraneu,insar,insaasonokItsunedearetan,repeNboodekuruk->U,delnekowakUkubagarupaadeaaatsumapueeviajooaruayataNekideclyo
+num of phones::92  num_delete,num_insert,num_replace:57,35,18  cer:1.1956521739130435
+2 origin:juuryokudekenonomionobootomotakenomakuhakobotarademorugosurocltoomoda
+2 target:koomorokoshIhatakeNchuumorokoshiokuumoNdauNuN
+2 diff  :repjuury->k,delkudekenonomionoboot,insrokoshIha,repnomak->Nch,rephakobotarade->u,repug->ok,inshiok,reprocltoo->u,insN,insuNuN
+num of phones::69  num_delete,num_insert,num_replace:19,18,31  cer:0.9855072463768116
+3 origin:aaratopuranetotoyofUtaatsujiNhabuimamotomomamanoraabucltatoirukuonomokoribamutorezutonikazunoNtonoboro
+3 target:arewasonotaneclteyatsuofUtatsuaasoouNkanarazufUtatsuiretesaaryadamoNdade
+3 diff  :dela,insew,inssono,delopur,inscl,repo->eya,repoy->su,instsuaasoouNkanarazufUt,delj,repNh->retes,repbuim->aryad,reptomom->Nd,repmanoraabucltatoirukuonomokoribamutor->d,delzutonikazunoNtonoboro
+num of phones::102  num_delete,num_insert,num_replace:27,29,50  cer:1.0392156862745099
+4 origin:hadoodeonakamaiwagupusatoimuru
+4 target:kanarazufUtatsuirune
+4 diff  :reph->k,deldoodeo,repk->r,repmaiwag->z,reppus->fUt,repo->su,delmu,insne
+num of phones::30  num_delete,num_insert,num_replace:8,2,12  cer:0.7333333333333333
+5 origin:mukafuruuiwaonoboclteruya
+5 target:mukashIkazeganokoclteruyatsUsa
+5 diff  :repfuruuiw->shIk,repo->zega,repb->k,instsUsa
+num of phones::25  num_delete,num_insert,num_replace:0,5,9  cer:0.56
+6 origin:noaredatonoumatsUpetacltenuhinozenonohodorubudesoohoNwafukinidacltedagadekokoroo
+6 target:arewasonotasUketaclteieiegahItsuyoodenauNteiunodesootoomaafuruiwakedanatsumarikokorano
+6 diff  :delno,repd->w,rept->s,repum->t,delt,repp->k,insieiegahItsuyoode,insa,reph->Nte,insu,delzenonohodorubu,reph->t,repNw->oma,insruiwa,delinidaclt,repg->n,repde->tsumari,insan,delo
+num of phones::80  num_delete,num_insert,num_replace:26,25,12  cer:0.7875
+7 origin:darekatocltekimitadaesotobogawanooohajipausaNdacltecltadenefuayokuyuroNkonianomomenaatomumonoda
+7 target:daredacltekiitaranesosucltosorekaraanohachimaNsaNdaclteicltacltenesoideanokokoniano
+7 diff  :repk->d,delto,delm,repd->r,insn,inssucl,repb->s,repg->rek,repw->ra,deloo,repj->ch,repp->m,repu->N,insi,repd->clt,repfu->soide,repy->n,deluyur,delN,delmomenaatomumonoda
+num of phones::95  num_delete,num_insert,num_replace:27,6,12  cer:0.47368421052631576
+8 origin:pecltodegasUkemeedaiichIkaNdogabisUtonanineutsuminamihinotoyosekininarinakai
+8 target:ooishIsaNtokaclteiuhItodeneeepaunaninanikai
+8 diff  :reppe->ooishIsaNtoka,insteiuhI,repgasUkem->n,repd->ep,repiichIkaNdogabisUto->u,deleutsumin,delmihinotoyoseki,delnarina
+num of phones::76  num_delete,num_insert,num_replace:28,6,28  cer:0.8157894736842105
+9 origin:ranakururodaronopaunenashikiNbanakanimiinuNdakonoawamahaayocltodeiookugacl
+9 target:watashiwaneuchiNnakanikanarazumizugaacltasonooyaclpari
+9 diff  :repr->w,repnakururodaronopaunen->t,repk->waneuch,delba,inskanarazu,repin->z,repNd->g,repk->acltas,repawamahaa->o,delocltodeiookug,inspari
+num of phones::74  num_delete,num_insert,num_replace:15,12,35  cer:0.8378378378378378
+10 origin:decltagokapatamichiaokyookowaniwatoriyataclteiruukiwapootoyoobaNdacltatofurumunosowabaniwahokara
+10 target:mukashIsonouchinohiniataclteruuchiwahotoNdonakacltadesUne
+10 diff  :repdecltago->mu,reppatami->shIsonou,repa->n,repkyookowa->hi,delwatoriy,deli,repk->ch,reppo->h,delyooba,insonak,reptofurumu->desU,reposowabaniwahokara->e
+num of phones::96  num_delete,num_insert,num_replace:13,4,51  cer:0.7083333333333334
+11 origin:togawamasaajuurunoyodatewamanazureNrebikakyooochinoarumaniwaryooneNnonaNyuubaNmataameN
+11 target:doomosaNjuuneNgureetatsunayoNjuuneNiyasaNjuugojuurokuneNmaayoNjuuneNdanadoomoaauN
+11 diff  :insdoomosaNjuuneNguree,insatsunay,repgawam->NjuuneNiy,repa->Njuugo,insok,repo->eNmaa,insNjuuneN,delatewam,repzureNrebikaky->d,repochin->m,repr->a,delmaniwaryoone,delnonaNyuubaNmataameN
+num of phones::86  num_delete,num_insert,num_replace:37,35,26  cer:1.1395348837209303
+12 origin:goedocltenometaoNdatokumamamanikunaumaodanotonoNgugurashUsoNboimeNfUtoiuumanogorarucltemo
+12 target:gojuclseNgureemitamoNdadeiyamaauNmukashinauNuNmukashiuNmukashinogojuclseNclteiumonowagohyakueNgoseNeN
+12 diff  :insjucls,insNgureemitamoN,insadeiyamaauNmukashinauNuNmukashiuNmukashin,insgojuclseN,repnometaoNdatok->i,delamamanikunaumaodanot,inswagohyakue,repugura->o,delhUsoNboim,delfUtoiuumanogoraruclt,repmo->N
+num of phones::89  num_delete,num_insert,num_replace:49,78,20  cer:1.651685393258427
+13 origin:manamurashimashofurookuclpureyadopukyuuyuuNriNnooNnagopaudonekuraimaininaotamemoiyagayoruyoNkoohiroinocltenee
+13 target:sonoatosoodesUneebokujuuhyakugojuugoneNkuraimaeninarimasUkaneyamaohiroimashItene
+13 diff  :repm->sono,instosoodesU,repamurashimashofuro->eeb,repclp->j,repre->uh,repd->kug,reppuky->j,delyuuNriNnooNna,delopaud,insN,repi->e,repot->rimasUkaney,delemoiy,delgayoruyoNko,repnocl->mashI,dele
+num of phones::109  num_delete,num_insert,num_replace:35,10,35  cer:0.7339449541284404
+14 origin:cltetejoobuicltaramehahamopikaninaclteneekaoomorinitatsuiteharamaradakaramatanodareobitamunashieamarawagaguni
+14 target:dejoobunishItaraneaamootaishItakiNninarucltsucltenesorekaradedaijini
+14 diff  :repcltet->d,insn,repcl->shI,repm->n,delh,delh,repp->ota,insshIta,repa->iN,insrucltsu,inssor,delaoomorinitatsuiteharam,repakaramatano->e,delreob,reptamunash->j,deleamarawagagu
+num of phones::109  num_delete,num_insert,num_replace:40,16,29  cer:0.7798165137614679
+15 origin:damaatacltetatadanononazuhyaclpaieNgagatoclteruchokaiwazaoichikimebakuuurukonobogawaodei
+15 target:tadamaatatekatagayaclparireNgagakoteedekitesoosooichimeN
+15 diff  :insta,delcl,rept->k,repd->g,delnononazuh,insr,insr,rept->k,delcl,repruch->edekites,repkaiwaza->oso,delki,repbakuuurukonobogawaodei->N
+num of phones::88  num_delete,num_insert,num_replace:15,4,36  cer:0.625
+16 origin:efoanobokabokudatobenimuuranoarukatomocltekyoneNkagoooookunadofumaruarecltokamurebu
+16 target:sooanobokubokuranotokoniimamoarukatoomocltekyoneNkanatsumari
+16 diff  :repef->so,repa->u,deldatobenimuu,insotokoniimam,inso,delgoooooku,repdof->ts,repuarecltokamurebu->i
+num of phones::83  num_delete,num_insert,num_replace:19,12,22  cer:0.6385542168674698
+17 origin:tsUkinobesonoikemuraguvubeezudeierudataryoooyogeeNnateNmiNtoedootomatauareiomoeroclteiclpuNzeNakiradeaclta
+17 target:koNgurainoikekanaNkadekireinaseNmeNkideneeuNaredekaoaraclte
+17 diff  :deltsU,insoNgura,delnobeso,repmur->k,repguvubeezu->naNka,insk,insr,reprudataryoooyogeeN->i,rept->s,inseNk,insdeneeu,deltoedootomatau,repi->deka,repmoe->a,repo->a,deliclpuNzeNakiradeaclta
+num of phones::106  num_delete,num_insert,num_replace:43,17,35  cer:0.8962264150943396
+18 origin:niperutowaichiclteteumaraNrumenarupaNgagerukenarukonohachIkoewaimaacltadashirookegaretaretaaku
+18 target:maanaNdenesonojiNseedesonohakoyokuo
+18 diff  :delniperutowaichiclteteu,repr->an,reprum->d,reparupa->esonoji,repgag->s,delruk,repnaruk->des,delchI,repewaimaacltadashiro->y,delegaretaretaak,inso
+num of phones::94  num_delete,num_insert,num_replace:40,1,35  cer:0.8085106382978723
+19 origin:iteucltetamoratarunogamugiyubuNdoogakUfuNdesUtadoaidakItatadaremuboofunacltadeyusetsunaatamada
+19 target:sooyaclteicltecltomatasonoibikikakudesauNsonomotodenauNzatsubokunoshItadeibikiokaku
+19 diff  :repiteu->sooya,insicl,repa->eclto,delor,repr->sonoibikikakudesauNsonomotodenauNzatsubok,delgamugiyubuNdoogakUfuNde,repUtadoaidak->h,deltatadaremuboofunacl,repy->ibikiokak,delsetsunaatamada
+num of phones::94  num_delete,num_insert,num_replace:58,3,17  cer:0.8297872340425532
+20 origin:gaameemugiohirudomocltaaruhowafUtamichimokunieireetacltekabuamidareNnumadeNkiodekicltefuclpokuichibarenogatenawadaroNNjoo
+20 target:miohirocltemodocltaNdesUyouNdeNkiotsUketedekooyookuoiretenasoikaramata
+20 diff  :delgaa,deleemug,repu->ocltemo,delom,repar->NdesUyo,delhowafUtamichimokunieireetacltekabuamidare,delnuma,instsUkete,repicltefuclp->ooyo,inso,delchiba,delnoga,repwad->soik,repoNNjoo->amata
+num of phones::121  num_delete,num_insert,num_replace:64,8,22  cer:0.7768595041322314
+21 origin:defuclcltaoriaregadaNnisonorokukoechicltonimunenahinotobudecltemaclpiclteawamaoucltekinacltadehaneretadafuclte
+21 target:sorekaranisonokoohItotsuucltahazudenatamauclteshimacltade
+21 diff  :repdefuclclta->s,repi->ek,deleg,deldaN,delroku,repec->o,repi->Itotsuu,reponim->ahaz,repn->d,delhino,delobudecltemaclpiclteaw,delo,repk->sh,repn->m,delhaneretadafuclte
+num of phones::110  num_delete,num_insert,num_replace:51,0,21  cer:0.6545454545454545
+22 origin:hirooniahiromoNoabeemodeararudehoNberawagokookooookunooyomitogautsuka
+22 target:sonotokiashiwamooabuniyararetesoideogauchinone
+22 diff  :inssonotokias,reprooni->w,delhiro,delN,repeemode->uniy,repu->etesoi,delhoNberawagokookooookunooyomit,reptsuka->chinone
+num of phones::69  num_delete,num_insert,num_replace:34,10,17  cer:0.8840579710144928
+23 origin:haNniNkawaupuradaamuutodokUtabafuburaukunomomaarokuponeruguchIkarakyokUhatsuclpirugaoto
+23 target:naNdakawakaraNnaatoomocltesoclkarashibarakUsonouNmaateclpoodecltekaclte
+23 diff  :reph->n,repniN->da,delupuradaamuutodokUtabafuburaukunomomaarokuponeruguchI,insNnaatoomocltesocl,repyo->arashibara,reph->sonouNma,repsu->e,repirug->oodecltek,repo->cl,repo->e
+num of phones::87  num_delete,num_insert,num_replace:52,17,15  cer:0.9655172413793104
+24 origin:mimiNpirurumotopofaiaruadopooretecltokoNgounaadareNtakoedekeeeclpuacltaanono
+24 target:miterudakejasaclpariwakaranookoocltecltokoounadaretakooaryaikeekiyacltahazuda
+24 diff  :repmiNpi->te,reprumoto->dakejasacl,delofai,repu->iw,repdop->karan,repre->koocl,delNg,dela,delN,repede->oaryai,repeclpu->kiy,insh,repnono->zuda
+num of phones::76  num_delete,num_insert,num_replace:8,1,29  cer:0.5
+25 origin:nadamohatsudobakanorooNmeenohItokasadekazunanunisuberihatsUsazokanuukigaagakacltayosore
+25 target:haclshakubaclkasononaNdamikakenaidesUnekoohaclshakubaclkanagakacltadesU
+25 diff  :inshaclshakubaclkasono,insN,insikakenaidesUneko,rept->cl,inshak,deldo,inscl,delorooNmeenohItokasadekazunanunisuberihatsUsazokanuukiga,repyo->de,repore->U
+num of phones::87  num_delete,num_insert,num_replace:56,41,6  cer:1.1839080459770115
+26 origin:komaclmigaraseemaruinikitetahoNtosomorowawatocltemotomoanomoclterakerebaredeareruclteueyo
+26 target:desonokonohanashidaclteshinagaramaeniienikitesauNsoNdenaNkamocltenakerebaneyarareruclteiudayouN
+26 diff  :insdesono,repm->nohanashid,repm->tesh,insna,delsee,repru->en,insie,rept->s,reph->uNs,reptosomorow->den,repw->Nk,deltocltemotomoano,repr->n,insneya,delede,insi,repe->da,insuN
+num of phones::89  num_delete,num_insert,num_replace:21,17,18  cer:0.6292134831460674
+27 origin:koooburudoiNdooozudakodetaishoorautsuideyuipomocltebirumigoNkadebokumichikokUtofuniuNdeiruhirudoaraono
+27 target:kozuredeichidozurasoidegaishagateclpoomoclteteichidooclkakesoredebokUtosaNniNdeichidodeichido
+27 diff  :deloooburudoiNdoo,repdako->re,rept->ichidozurasoideg,insagateclp,delorautsuideyuip,repb->te,reprum->ch,repg->d,repN->ocl,inskesore,repum->UtosaNniNde,repk->d,delkUtofuniuN,repru->c,delru,delaraono
+num of phones::102  num_delete,num_insert,num_replace:46,14,16  cer:0.7450980392156863
+28 origin:dehareetemosoteNboiupadesaaaoyanomaarutabibuukUtoshIteuruyoyamononinimokonominarunaninashinaka
+28 target:jaretemotocltemoyorokoNdesaoyanomawariokurukurushIteruoyamonaNnimoshinaidemiteru
+28 diff  :repdeh->j,dele,reps->t,inscl,insmoyoroko,delboiupa,delaa,insw,insiok,reptabibu->r,repUto->uru,delu,dely,reponi->aN,delkonominarunanina,repka->idemiteru
+num of phones::94  num_delete,num_insert,num_replace:27,14,18  cer:0.6276595744680851
+29 origin:tobukurocltadowananiacltanoodopaupofoNNbofuacltekudafudatarekara
+29 target:nimeetoruicltakarabakooNbakooNyacltetayo
+29 diff  :insnimee,repb->r,repkuro->i,repdow->k,repn->r,repni->b,repcltan->k,repd->Nbak,delpaupof,repNbofu->y,delkudafuda,reprekara->yo
+num of phones::64  num_delete,num_insert,num_replace:14,5,28  cer:0.734375
+30 origin:dodonoboretoclpobukorutokodatomudoofUkatetsuclkaclkinodekokonimoiku
+30 target:hiraitamamajoodekachIkachIkachioritekurudaro
+30 diff  :repd->hiraitamamaj,deldonoboretoclpobukorutokodatomudoofUkatetsuclkaclkin,insachIkachIkachi,repkon->r,repmoi->te,insrudaro
+num of phones::67  num_delete,num_insert,num_replace:51,20,7  cer:1.164179104477612
+
+num of total phones:2563  num of total diff phones:2155  cer:0.8408115489660554
