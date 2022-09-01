@@ -10,9 +10,8 @@ This repository contains code and models for the poster: [wav2vecモデルによ
 
 ## 学習済みデータ
 
-[t9.zip](https://drive.google.com/file/d/1KzrC1mQo2XVtVOrHpwbaWDQlOWYzxr1N/view?usp=sharing)
-
-[t10.zip](https://drive.google.com/file/d/18zBbNjhFJC8SJugSR-_Yi2k-2y0Na8vy/view?usp=sharing)
+[Google Drive: t9.zip](https://drive.google.com/file/d/1KzrC1mQo2XVtVOrHpwbaWDQlOWYzxr1N/view?usp=sharing)  
+[Google Drive: t10.zip](https://drive.google.com/file/d/18zBbNjhFJC8SJugSR-_Yi2k-2y0Na8vy/view?usp=sharing)
 
 ```
 📦t9                         #T9 data
